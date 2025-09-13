@@ -3,6 +3,5 @@ public class Celebrity {
         System.out.println("muh ke bal mat gir madarchod");
         System.out.println("main is film ko bahut badi banane wala hoon");
         System.out.println("chakka");
-        System.out.println("ac");
     }
 }

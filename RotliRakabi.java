@@ -8,5 +8,6 @@ public class RotliRakabi {
     public static void main2(String[] args) {
         System.out.println("i am on aramdayak u pansy bitch");
         System.out.println("asdm");
+        System.out.println("abbajaan bade khush honge");
     }
 }
